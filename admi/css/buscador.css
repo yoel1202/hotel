@@ -1,0 +1,55 @@
+.search-header .vendor-logo {
+    display: table;
+}
+.search-header .vendor-logo > img {
+    display: table-cell;
+}
+.search-header .vendor-logo > h1 {
+    color: #5c84c3;
+    display: table-cell;
+    font-style: italic;
+    vertical-align: bottom;
+}
+.search-header .vendor-text {
+    color: #5c84c3;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 10px;
+}
+.search-header #custom-search-input {
+    margin:0;
+    margin-top: 10px;
+    padding: 0;
+}
+.search-header #custom-search-input .search-query {
+    padding-right: 4px;
+    padding-right: 4px \9;
+    padding-left: 15px;
+    padding-left: 15px \20;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    border: 3px solid #00ba8b;
+    height: 50px;
+    margin-bottom: 0;
+    -webkit-border-radius: 11px;
+    -moz-border-radius: 11px;
+    border-radius: 11px;
+}
+.search-header #custom-search-input button {
+    border: 0;
+    background: none;
+    /** belows styles are working good */
+    padding: 2px 5px;
+    margin-top: 2px;
+    position: relative;
+    left: -28px;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color:#D9230F;
+}
+
+.search-header .search-query:focus + button {
+    z-index: 3;   
+}

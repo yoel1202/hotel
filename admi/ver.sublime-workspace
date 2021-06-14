@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fk",
+				"fk_habitacion"
+			],
+			[
+				"CA",
+				"canti"
+			],
+			[
+				"on",
+				"observacion"
+			],
+			[
+				"tbl",
+				"tbl_pedidos"
+			],
+			[
+				"TB",
+				"tbl_pedidos"
+			],
+			[
+				"id",
+				"id_entrada"
+			],
+			[
+				"ca",
+				"cantidad"
+			],
+			[
+				"re",
+				"resultado"
+			],
+			[
+				"can",
+				"cantidad"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"tb",
+				"tbl_entradas"
+			],
+			[
+				"elem",
+				"elementos"
+			],
+			[
+				"ele",
+				"elementos"
+			],
+			[
+				"pro",
+				"producto"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"de",
+				"descripcion"
+			],
+			[
+				"con",
+				"consulta"
+			],
+			[
+				"pre",
+				"precio"
+			],
+			[
+				"des",
+				"Descripcion"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Yorjanny Trejos/Desktop/TOPBuilder/index.html",
+		"/C/Users/Yorjanny Trejos/Desktop/TOPBuilder/scss/style.scss",
+		"/C/Users/Yorjanny Trejos/Desktop/TOPBuilder/css/style.css",
+		"/C/Users/Yorjanny Trejos/Desktop/TOPBuilder/scss/_offer.scss",
+		"/C/xampp/htdocs/galeria/admi/catalogo.php",
+		"/C/xampp/htdocs/galeria/admi/produccion.php",
+		"/C/xampp/htdocs/galeria/admi/pedidos.php",
+		"/C/xampp/htdocs/galeria/admi/comidas.php",
+		"/C/xampp/htdocs/galeria/admi/salidas.php",
+		"/C/xampp/htdocs/galeria/admi/inventario.php",
+		"/C/Users/Yorjanny Trejos/Downloads/bd_galeria (3).sql",
+		"/C/xampp/htdocs/galeria/js/login.js",
+		"/C/xampp/htdocs/galeria/login.php",
+		"/C/xampp/htdocs/galeria/entradas.php",
+		"/C/xampp/htdocs/galeria/js/funciones.js",
+		"/C/xampp/htdocs/galeria/css/style.css",
+		"/C/xampp/htdocs/galeria/catalogo.php",
+		"/C/xampp/htdocs/galeria/listapedidos.php",
+		"/C/xampp/htdocs/galeria/pedidos.php",
+		"/C/xampp/htdocs/galeria/basedatos.php",
+		"/C/Users/Yorjanny Trejos/Downloads/tbl_productos.sql",
+		"/C/Users/Yorjanny Trejos/Downloads/id7407172_bd_galeria.sql",
+		"/C/xampp/htdocs/galeria/produccion.php",
+		"/C/xampp/htdocs/galeria/comidas.php",
+		"/C/Users/Yorjanny Trejos/Downloads/id7407172_bd_galeria (1).sql",
+		"/C/Users/Yorjanny Trejos/Downloads/bd_galeria (6).sql",
+		"/C/xampp/htdocs/galeria/mantenimiento.php",
+		"/C/xampp/htdocs/galeria/salidas.php",
+		"/C/xampp/htdocs/galeria/producir.php",
+		"/C/xampp/htdocs/galeria/css/estiloprinciapl",
+		"/C/xampp/htdocs/galeria/bd_galeria (2).sql",
+		"/C/xampp/htdocs/galeria/inventario.php",
+		"/C/xampp/htdocs/galeria/config2.php",
+		"/C/xampp/htdocs/config (2).php",
+		"/C/xampp/htdocs/config.php",
+		"/C/xampp/htdocs/galeria/config.php",
+		"/C/xampp/htdocs/galeria/bd_galeria.sql",
+		"/C/xampp/htdocs/proyecto dentista/header.php",
+		"/C/xampp/htdocs/galeria/css/pages/signin.css",
+		"/C/xampp/htdocs/galeria/web/css/style.css",
+		"/C/xampp/htdocs/galeria/web/index.html",
+		"/C/Users/Yorjanny Trejos/Downloads/tbl_habitaciones.sql",
+		"/C/xampp/htdocs/galeria/js/calender.js",
+		"/C/xampp/htdocs/galeria/js/home.js",
+		"/C/xampp/htdocs/galeria/ver.php",
+		"/C/xampp/htdocs/hotel/index.php",
+		"/C/xampp/htdocs/galeria/home.php",
+		"/C/xampp/htdocs/galeria/js/paciente.js",
+		"/C/xampp/htdocs/galeria/entradas - copia.php",
+		"/C/xampp/htdocs/Ventas/config.php",
+		"/C/Users/Yorjanny Trejos/Downloads/bd_galeria (1).sql",
+		"/C/Users/Yorjanny Trejos/Downloads/bd_ventas (3) (1).sql",
+		"/C/xampp/htdocs/Ventas/conexion.php",
+		"/C/Users/Yorjanny Trejos/Downloads/bd_galeria.sql",
+		"/C/xampp/htdocs/galeria/salidas - copia.php",
+		"/C/xampp/htdocs/galeria/reservaciones.php",
+		"/C/xampp/htdocs/galeria/catalogo - copia.php",
+		"/C/xampp/htdocs/CenterMedicine/login.php",
+		"/C/xampp/htdocs/CenterMedicine/funciones.php",
+		"/C/xampp/htdocs/Odontograma_PHP_MYSQL-master/CenterMedicine/BD/centromedico.sql",
+		"/C/xampp/htdocs/Odontograma_PHP_MYSQL-master/Login.php",
+		"/C/xampp/htdocs/galeria/cantalogo.php",
+		"/C/xampp/htdocs/hotel/system/core/Controller.php",
+		"/C/xampp/htdocs/hotel/application/config/config.php",
+		"/C/xampp/htdocs/hotel/application/models/user_m.php",
+		"/C/xampp/htdocs/galeria/js/citas.js",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/controllers/index.php",
+		"/C/xampp/htdocs/header.php",
+		"/C/xampp/htdocs/proyecto dentista/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/modules/hotelreservationsystem/views/templates/hook/topPrimaryTaskBlock.tpl",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/modules/hotelreservationsystem/views/templates/hook/headerHotelDescBlock.tpl",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/modules/gamification/sql_install.php",
+		"/C/xampp/htdocs/hotel/application/views/login.php",
+		"/C/xampp/htdocs/hotel/system/core/CodeIgniter.php",
+		"/C/xampp/htdocs/hotel/application/hooks/check_login.php",
+		"/C/xampp/htdocs/hotel/application/controllers/search.php",
+		"/C/xampp/htdocs/hotel/application/config/user_agents.php",
+		"/C/xampp/htdocs/hotel/application/config/smileys.php",
+		"/C/xampp/htdocs/hotel/application/config/routes.php",
+		"/C/xampp/htdocs/hotel/application/config/profiler.php",
+		"/C/xampp/htdocs/hotel/application/config/mimes.php",
+		"/C/xampp/htdocs/hotel/application/config/migration.php",
+		"/C/xampp/htdocs/hotel/application/config/foreign_chars.php",
+		"/C/xampp/htdocs/hotel/application/config/hooks.php",
+		"/C/xampp/htdocs/hotel/application/config/doctypes.php",
+		"/C/xampp/htdocs/hotel/application/config/database.php",
+		"/C/xampp/htdocs/hotel/application/config/autoload.php",
+		"/C/xampp/htdocs/hotel/application/config/constants.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/modules/hotelreservationsystem/views/templates/hook/footertop.tpl",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/modules/hotelreservationsystem/views/css/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/modules/hotelreservationsystem/views/img/hotel_img/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/modules/hotelreservationsystem/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/modules/hotelreservationsystem/views/templates/admin/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/modules/hotelreservationsystem/views/templates/hook/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/modules/hotelreservationsystem/views/templates/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/modules/hotelreservationsystem/views/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/js/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/themes/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/webservice/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/header.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/index.php",
+		"/C/xampp/htdocs/hotelcommerce-1.1.1/install/upgrade/sql/1.6.1.1.sql",
+		"/C/xampp/htdocs/hotel/application/views/welcome_message.php",
+		"/C/xampp/htdocs/hotel/application/views/service_success.php",
+		"/C/xampp/htdocs/hotel/application/views/header.php",
+		"/C/xampp/htdocs/hotel/application/views/customer/add.php",
+		"/C/xampp/htdocs/hotel/application/config/index.html",
+		"/C/xampp/htdocs/hotel/application/cache/index.html",
+		"/C/xampp/htdocs/hotel/application/core/index.html",
+		"/C/xampp/htdocs/hotel/application/index.html",
+		"/C/xampp/htdocs/hotel/js/signin.js",
+		"/C/xampp/htdocs/hotel/application/controllers/login.php",
+		"/C/xampp/htdocs/hotel/database.sql"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ver.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
